@@ -2543,6 +2543,21 @@ textarea.form-control {
     width: auto;
     padding-left: 0;
   }
+
+  .hero {
+    background-image: url(../img/portfolio/salad.png);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+    background-color: rgba(0, 0, 0, 0.719);
+
+    top: 0;
+    bottom: 0;
+    height: 100vh;
+    z-index: -10;
+    
+}
+
   .form-inline .form-check-input {
     position: relative;
     -ms-flex-negative: 0;
